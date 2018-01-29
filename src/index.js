@@ -8,8 +8,9 @@ ReactDOM.render(
   (
     <div>
       <RegistrationForm />
-      <Webpage />
+       <Webpage />
     </div>
   ),
   document.getElementById('global')
 );
+console.log('hi')
